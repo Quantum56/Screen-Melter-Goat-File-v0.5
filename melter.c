@@ -4,6 +4,7 @@
 //
 // Check out Napalm at http://www.rohitab.com/discuss/topic/23191-screen-melter/
 // and use this file for anything (freeware)
+// Make sure to config this for assembly as multi-byte rather than Unicode
 #include <windows.h>
 int nRandWidth = 150, nRandHeight = 15, nSpeed = 1;
 int nScreenWidth, nScreenHeight;
