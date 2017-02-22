@@ -2,6 +2,8 @@
 // Melter - By Napalm @ NetCore2K.net
 // Inspired by MetalHead (http://www.rohitab.com/discuss/index.php?showtopic=23191)
 //
+// Check out Napalm at http://www.rohitab.com/discuss/topic/23191-screen-melter/
+// and use this file for anything (freeware)
 #include <windows.h>
 int nRandWidth = 150, nRandHeight = 15, nSpeed = 1;
 int nScreenWidth, nScreenHeight;
